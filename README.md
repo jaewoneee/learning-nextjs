@@ -6,13 +6,13 @@
 - [x] Create a Next.js App
 - [x] Navigate Between Pages
 - [x] Assets, Metadata, and CSS
-- [ ] Pre-rendering and Data Fetching
+- [x] Pre-rendering and Data Fetching
+- [ ] Dynamic Routes
+- [ ] API Routes
+- [ ] Deploying Your Next.js App
 
 ### 2. SEARCH ENGINE OPTIMIZATION
 - [ ] Introduction to SEO
-- [ ] Importance of SEO
-- [ ] Search Systems
-- [ ] What are Webcrawlers?
 - [ ] Crawling and Indexing
 - [ ] Rendering and Ranking
 - [ ] Performance & Core Web Vitals
