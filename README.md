@@ -8,8 +8,8 @@
 - [x] Assets, Metadata, and CSS
 - [x] Pre-rendering and Data Fetching
 - [x] Dynamic Routes
-- [ ] API Routes
-- [ ] Deploying Your Next.js App
+- [x] API Routes
+- [x] Deploying Your Next.js App
 
 ### 2. SEARCH ENGINE OPTIMIZATION
 - [ ] Introduction to SEO
